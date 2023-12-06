@@ -1,4 +1,4 @@
-# Project11
+# AI GENERATED ART GALLERY
 This project is an Ai Generated Art Gallery website
 My team name is Phantoms
 There are 6 Navigation bar 
